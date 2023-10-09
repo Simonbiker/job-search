@@ -1,5 +1,7 @@
-const Error = () =>{
-    <h1>Error layout</h1>
+const Error = () => {
+    return (
+        <h1>Error layout</h1>
+    )
 };
 
 export default Error;

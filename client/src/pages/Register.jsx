@@ -1,5 +1,7 @@
-const Register = () =>{
-    <h1>EdRegister layout</h1>
+const Register = () => {
+    return (
+        <h1>Register layout</h1>
+    );
 };
 
 export default Register;

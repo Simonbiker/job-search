@@ -1,5 +1,7 @@
-const Stats = () =>{
-    <h1>Stats layout</h1>
+const Stats = () => {
+    return (
+        <h1>Stats layout</h1>
+    )
 };
 
 export default Stats;
