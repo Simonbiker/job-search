@@ -9,7 +9,7 @@ import { MdAdminPanelSettings } from 'react-icons/md';
 const links = [
     {
         text: 'add job',
-        path: '.',
+        path: '.', // link is relative and automatically navigate to the parent 
         icon: <FaWpforms />
     },
     {
